@@ -1,4 +1,5 @@
-# salticon
+![Salticon Limited](https://salticon.com/logo.png)
+
 ### **Transforming Ideas into Scalable Software Solutions**  
 
 At **Salticon Limited**, we are a technology-driven company committed to developing cutting-edge, scalable, and innovative software solutions. Our expertise spans multiple industries, delivering high-performance applications that empower businesses and drive digital transformation.  
