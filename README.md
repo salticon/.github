@@ -1,4 +1,6 @@
-![Salticon Limited](https://salticon.com/logo.png)
+<p align="center">
+  <img src="https://salticon.com/logo.png" alt="Salticon Limited" width="200">
+</p>
 
 ### **Transforming Ideas into Scalable Software Solutions**  
 
